@@ -1,0 +1,19 @@
+{
+  "name": "bud-query",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "lz82 <nickylau82@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/bud-query.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
